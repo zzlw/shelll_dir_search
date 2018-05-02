@@ -1,5 +1,10 @@
 ## 打开终端执行
 
+[![GitHub issues](https://img.shields.io/github/issues/zzlw/shelll_dir_search.svg)](https://github.com/zzlw/shelll_dir_search/issues)
+[![GitHub forks](https://img.shields.io/github/forks/zzlw/shelll_dir_search.svg)](https://github.com/zzlw/shelll_dir_search/network)
+[![GitHub stars](https://img.shields.io/github/stars/zzlw/shelll_dir_search.svg)](https://github.com/zzlw/shelll_dir_search/stargazers)
+[![GitHub license](https://img.shields.io/github/license/zzlw/shelll_dir_search.svg)](https://github.com/zzlw/shelll_dir_search/blob/master/LICENSE)
+
 ```
 /bin/sh ./dir_search.sh
 ```
